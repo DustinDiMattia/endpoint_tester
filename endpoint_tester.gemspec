@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ['lib/endpoint_tester.rb', 'lib/views/index.erb']
   s.homepage    = 'https://github.com/DustinDiMattia/endpoint_tester'
   s.license     = 'Free to use so long as you do not attribute this mess to me.'
+  s.executables = ["endpoint_tester"]
 end
